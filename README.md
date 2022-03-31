@@ -19,3 +19,5 @@
           'npx cypress open' - to open test cases in cypress
     - Select browser in cypress in which you want to run the test cases, click on test case to run it
 
+4. Download Cognigy_Challenge.zip file , extract and add this folder under 'ui-test-automation-playground\cypress\integration' to execute the testcases 
+
